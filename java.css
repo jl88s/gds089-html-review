@@ -42,3 +42,7 @@ footer {
     bottom: 10px;
     width: 99%; */
 }
+
+dt {
+    font-weight: bolder;
+}
