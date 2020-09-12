@@ -1,0 +1,37 @@
+<------Home page (index.html)------------->
+JavaJam Coffee House
+Home   Menu   Music   Jobs
+Specialty Coffee and Tea
+Bagels, Muffins, and Organic Snacks
+Music and Poetry Readings
+Open Mic Night
+12312 Main Street
+Mountain Home, CA 93923
+1-888-555-5555
+
+Copyright © 2013 JavaJam Coffee House
+yourfirstname@yourlastname.com
+
+<----- Menu Page (main.html)---->
+
+JavaJam Coffee House
+Home   Menu   Music   Jobs
+Just Java
+Regular house blend, decaffeinated coffee, or flavor of the day.
+Endless Cup $2.00
+Cafe au Lait
+House blended coffee infused into a smooth, steamed milk.
+Single $2.00  Double $3.00
+Iced Cappuccino
+Sweetened espresso blended with icy-cold milk and served in a chilled glass.
+Single $4.75  Double $5.75
+Copyright © 2013 JavaJam Coffee House
+yourfirstname@yourlastname.com
+
+<-------- Styles------>
+
+page body background color = #ffffcc;
+body fonts: Verdana, Arial, sans-serif
+
+header and footer background color: #ccaa66
+footer font style: italic
